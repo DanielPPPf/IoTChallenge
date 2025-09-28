@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "ESP-IDF",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/daniel/esp/esp-idf/components/**",
+        "/home/daniel/esp/esp-idf/components/freertos/include",
+        "/home/daniel/esp/esp-idf/components/esp_system/include",
+        "/home/daniel/esp/esp-idf/components/esp_adc/include",
+        "/home/daniel/esp/esp-idf/components/log/include"
+      ],
+      "defines": [
+        "ESP_PLATFORM"
+      ],
+      "compilerPath": "/home/daniel/esp/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
