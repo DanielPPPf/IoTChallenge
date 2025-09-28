@@ -258,10 +258,7 @@ sistema-iot-deslizamientos/
 ├── CMakeLists.txt          # Configuración raíz del proyecto
 ├── sdkconfig               # Configuración del ESP32
 ├── README.md               # Este archivo
-└── docs/                   # Documentación adicional
-    ├── wiki.md            # Documentación técnica completa
-    ├── esquematicos/       # Diagramas de conexión
-    └── videos/            # Demostración del funcionamiento
+
 ```
 
 ## Configuración Avanzada
