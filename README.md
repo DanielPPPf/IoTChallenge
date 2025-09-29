@@ -2,6 +2,7 @@
 
 Sistema de monitoreo en tiempo real para la detección temprana de deslizamientos de tierra implementado en ESP32 con funcionalidades avanzadas de ISR + Timer automático.
 
+# Wiki: [Enlace a la WIki](https://github.com/DanielPPPf/IoTChallenge/wiki)
 ## Características Principales
 
 - **ISR para eventos sísmicos** con respuesta <1ms
